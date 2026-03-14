@@ -1,0 +1,5 @@
+{
+  "name": "AI Idea Generator",
+  "description": "A professional AI-powered tool to generate, manage, and sync business and product ideas using Gemini and Supabase.",
+  "requestFramePermissions": []
+}
